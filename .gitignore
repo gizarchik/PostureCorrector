@@ -1,0 +1,6 @@
+/datasets/
+/CatBoost/catboost_info/
+*.cbm
+*.csv
+.ipynb_checkpoints
+.idea
